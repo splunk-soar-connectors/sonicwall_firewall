@@ -1,2 +1,2 @@
 # sonicwall_firewall
-Community Contributed Sonicwall Firewall App for Phantom
+A phantom app for sonicwall product
