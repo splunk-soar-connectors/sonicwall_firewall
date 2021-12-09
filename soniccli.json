@@ -349,5 +349,29 @@
             ],
             "versions": "EQ(*)"
         }
-    ]
+    ],
+    "pip_dependencies": {
+        "wheel": [
+            {
+                "module": "enum34",
+                "input_file": "wheels/enum34-1.1.10-py2-none-any.whl"
+            },
+            {
+                "module": "ipaddress",
+                "input_file": "wheels/ipaddress-1.0.23-py2.py3-none-any.whl"
+            },
+            {
+                "module": "paramiko",
+                "input_file": "wheels/paramiko-2.7.2-py2.py3-none-any.whl"
+            },
+            {
+                "module": "pycparser",
+                "input_file": "wheels/pycparser-2.21-py2.py3-none-any.whl"
+            },
+            {
+                "module": "six",
+                "input_file": "wheels/six-1.16.0-py2.py3-none-any.whl"
+            }
+        ]
+    }
 }
