@@ -10,10 +10,6 @@ Minimum Product Version: 3\.0\.251
 
 Manipulate SonicWALL firewall via ECLI
 
-# sonicwall_firewall
-A phantom app for sonicwall product
-
-
 ### Configuration Variables
 The below configuration variables are required for this Connector to operate.  These variables are specified when configuring a SonicWALL Firewall asset in SOAR.
 
